@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Zhangwiththewang.aternos.me",
+    "ip": "pufferfish.aternos.host:52980",
     "port": 52980,
     "version": "1.21.11",
     "try-creative": false
